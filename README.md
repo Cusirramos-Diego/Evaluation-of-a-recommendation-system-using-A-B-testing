@@ -16,6 +16,13 @@ Python | Pandas | SciPy | Statsmodels | Matplotlib | Seaborn
 •	Evaluated three stages of the conversion funnel using statistical tests, identifying critical transition points where visitors dropped off.  
 •	Generated evidence-based recommendations to support decision-making regarding the implementation of the new system.
 
+📈 Graphical visualization:  
+• Analysis and temporal validation of the number of participants in groups A and B:  
+<img width="1858" height="765" alt="image" src="https://github.com/user-attachments/assets/b77b58ee-e663-44b9-91f0-085a721555e0" />
+
+• Comparison of performance in the main funnels of both groups:  
+<img width="1546" height="765" alt="image" src="https://github.com/user-attachments/assets/22b2861e-fe74-4f81-b8f2-de8f07e25a5d" />
+
 💭 Recommendations:  
 It was recommended not to implement the new recommendation system, as the observed differences did not demonstrate statistically significant improvements in funnel conversion rates.
 
