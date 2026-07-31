@@ -17,9 +17,9 @@ Reliable experimentation depends on data quality as much as statistical testing.
 ⚙️ Main analytical decisions:  
 •	Reconstructed the purchase funnel using a strict sequential approach to preserve the logical progression of user actions.  
 •	Excluded records that violated the experimental design to minimize potential bias.  
-•	Evaluated conversion rates at each stage of the funnel instead of relying exclusively on overall purchase rates.
-•	Applied one-tailed statistical hypothesis tests because the business objective was specifically to evaluate whether the new recommendation system improved conversion.
-•	Prioritized business interpretation of statistical results by translating findings into product recommendations.
+•	Evaluated conversion rates at each stage of the funnel instead of relying exclusively on overall purchase rates.  
+•	Applied one-tailed statistical hypothesis tests because the business objective was specifically to evaluate whether the new recommendation system improved conversion.  
+•	Prioritized business interpretation of statistical results by translating findings into product recommendations.  
 
 🛠️ Technical Tools:  
 Python | Pandas | SciPy | Statsmodels | Matplotlib | Seaborn
