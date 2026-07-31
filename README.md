@@ -23,7 +23,26 @@ Python | Pandas | SciPy | Statsmodels | Matplotlib | Seaborn
 • Comparison of performance in the main funnels of both groups:  
 <img width="1546" height="765" alt="image" src="https://github.com/user-attachments/assets/22b2861e-fe74-4f81-b8f2-de8f07e25a5d" />
 
-💭 Recommendations:  
+🎯 KPIs to change:  
+•	Product Page → Cart Conversion.  
+•	Cart → Purchase Conversion.  
+•	Purchase Rate.  
+•	Revenue per User.  
+•	Average Order Value.  
+
+🤔 Subsequent hypothesis worth evaluating:  
+If recommendations are personalized using the user's browsing and purchase history, the conversion rate from product viewing to purchase will increase.
+
+💡 Recommended decision for the Product Manager:  
+The results indicate that the new recommendation system should not be implemented in its current state, as it did not produce statistically significant improvements in purchase funnel conversion rates.
+
+🚀 Expected impact:  
+•	Increased conversion.  
+•	Higher revenue per user.  
+•	Improved shopping experience.  
+•	Experimental validation before final deployment.  
+
+💭 General recommendations:  
 It was recommended not to implement the new recommendation system, as the observed differences did not demonstrate statistically significant improvements in funnel conversion rates.
 
 ▶️ How to Run:  
